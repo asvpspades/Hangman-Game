@@ -77,7 +77,7 @@ const hints = [
     "Jamaican gangster film",
     "DC Comics action film",
     "Las Vegas comedy film",
-    "Animated Fish",
+    "Animated fish",
     "Giant great white shark"
   ],
   [
