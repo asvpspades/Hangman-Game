@@ -71,7 +71,7 @@ const hints = [
     "Giant robot suits fighting for earth",
     "7th hokages son",
     "Pirates that ate special fruit searching for treasure",
-    "Kids team up with robots and fight in pairs in japan"
+    "Kids team up with robots and fights in pairs in japan"
   ],
   [
     "Jamaican gangster film",
