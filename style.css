@@ -2,7 +2,7 @@ body {
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
     Helvetica, Arial, "Lucida Grande", sans-serif;
     background-color: #9fe2bf;
-    color: #f8f8ff;
+    color: #353935;
     text-align: center;
     height: 100%;
     font-size: 18px;
@@ -14,8 +14,8 @@ body {
 }
 
 canvas {
-    color: #f8f8ff;
-    border: dashed 2px #f8f8ff;
+    color: #353935;
+    border: dashed 2px #353935;
     padding: 15px;
 }
 
@@ -42,8 +42,8 @@ p {
 button {
     background: #9fe2bf;
     border-radius: 5px;
-    border: solid 1px #f8f8ff;
-    color: #f8f8ff;
+    border: solid 1px #353935;
+    color: #353935;
     width: 35px;
     height: 35px;
     margin: 0 10px 10px 0;
@@ -64,8 +64,8 @@ button:hover {
 .btn-2 {
     border-radius: 10px;
     background: #9fe2bf;
-    color: #f8f8ff;
-    border: solid 1px #f8f8ff;
+    color: #353935;
+    border: solid 1px #353935;
     text-decoration: none;
     cursor: pointer;
     font-size: 1.2em;
