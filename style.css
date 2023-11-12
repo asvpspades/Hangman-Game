@@ -1,0 +1,136 @@
+body {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
+    Helvetica, Arial, "Lucida Grande", sans-serif;
+    background-color: #9fe2bf;
+    color: #f8f8ff;
+    text-align: center;
+    height: 100%;
+    font-size: 18px;
+}
+
+.wrapper {
+    width: 100%;
+    margin: 0 auto;
+}
+
+canvas {
+    color: #f8f8ff;
+    border: dashed 2px #f8f8ff;
+    padding: 15px;
+}
+
+h1,
+h2,
+h3 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    text-transform: uppercase;
+    margin: 5px 0;
+}
+h1 {
+    font-size: 2.6em;
+}
+
+h2 {
+    font-size: 1.2em;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+button {
+    background: #9fe2bf;
+    border-radius: 5px;
+    border: solid 1px #f8f8ff;
+    color: #f8f8ff;
+    width: 35px;
+    height: 35px;
+    margin: 0 10px 10px 0;
+    outline: none;
+}
+button:hover {
+    transition: 0.5s;
+    background: #f8f8ff;
+    border: solid 1px #f8f8ff;
+    color: #9FE2BF;
+}
+.selected {
+    background: #f8f8ff;
+    border: solid 1px #f8f8ff;
+    color: #9fe2bf;
+}
+
+.btn-2 {
+    border-radius: 10px;
+    background: #9fe2bf;
+    color: #f8f8ff;
+    border: solid 1px #f8f8ff;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 1.2em;
+    padding: 10px 10px;
+    width: 180px;
+    height: 50px;
+    margin: 0 10px 10px 0;
+
+    outline: none;
+}
+.btn-2:hover {
+    transition: 0.5s;
+    background: #f8f8ff;
+    border: solid 1px #f8f8ff;
+    color: #9fe2bf;
+}
+/* Mobile CSS */
+@media screen and (max-width: 480px) {
+    body {
+        font-size: 16px;
+    }
+
+    h1 {
+        font-size: 2.2em;
+    }
+
+    h2 {
+        font-size: 1.1em;
+    }
+
+    p {
+        font-size: 1.1em;
+    }
+
+    button {
+        width: 30px;
+        height: 30px;
+    }
+
+    .btn-2 {
+        font-size: 1.1em;
+        padding: 10px 10px;
+        width: 160px;
+        height: 40px;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    body {
+       font-size: 16px;
+    }
+   
+    h1, h2, p {
+       font-size: 1.1em;
+    }
+   
+    button {
+       width: 30px;
+       height: 30px;
+    }
+   
+    .btn-2 {
+       font-size: 1.1em;
+       padding: 10px 10px;
+       width: 160px;
+       height: 40px;
+    }
+   }
