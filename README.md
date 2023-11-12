@@ -1,3 +1,4 @@
 # Hangman-Game
 A simple game of hangman made with vanilla javascript, html & css
-![hangman-screenshot](https://user-images.githubusercontent.com/103478582/207741288-b7e6956c-ee33-48d6-9963-0c3d7f97d269.png)
+
+![Screenshot 2023-11-12 at 13-53-15 Javascript Hangman Game](https://github.com/asvpspades/Hangman-Game/assets/103478582/ed4f7c88-0c3f-4a65-b00a-9dcaab2712a0)
